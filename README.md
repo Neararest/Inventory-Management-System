@@ -1,3 +1,2 @@
 # Inventory-Management-System
-### Deskripsi karya
 Aplikasi berbasis Microsoft Excel berupa sistem manajemen inventaris barang yang dirancang untuk membantu proses pencatatan, pengelolaan, dan pemantauan stok barang secara terstruktur. Aplikasi ini menyediakan fitur pengelolaan data barang berdasarkan kategori dan satuan, pencatatan stok awal dan stok akhir, serta penentuan status stok seperti Aman, Menipis, dan Habis, sehingga memudahkan pengguna dalam mengontrol ketersediaan barang dan menjaga konsistensi data inventaris secara efektif.
